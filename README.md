@@ -67,5 +67,6 @@
   <a href=https://linkedin.com/in/1998sb target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="sahilbhola" height="40" width="40" /></a>
   <a href=https://instagram.com/crispy_lunatic target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="sahilbhola" height="40" width="40" /></a>
 </p>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css">
 
 ⭐️ From [Sahil Bhola](https://github.com/sahilgenius1) <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> ```If it takes more than 90 seconds, script and automate it```
