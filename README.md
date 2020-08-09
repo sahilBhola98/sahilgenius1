@@ -27,7 +27,7 @@
 </p>
 <h4>Skills and Tools: </h4>
 <p align="left">
-	<img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg alt=html5 width="60" height="60"/>
+	<img style="margin: auto;" src=https://www.vectorlogo.zone/util/preview.html?image=/logos/w3_html5/w3_html5-icon.svg alt=html5 width="60" height="60"/>
 	<img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg alt=css3 width="60" height="60"/>
 	<img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg alt=bootstrap width="60" height="60"/>
 	<img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/jquery/jquery-original-wordmark.svg alt=jquery width="60" height="60"/>
