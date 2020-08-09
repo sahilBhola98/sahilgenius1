@@ -29,21 +29,21 @@
 <p align="left">
 	<img style="margin: auto;" src=https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg alt=html5 width="60" height="60"/>
 	<img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg alt=css3 width="60" height="60"/>
-	<img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg alt=bootstrap width="60" height="60"/>
-	<img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/jquery/jquery-original-wordmark.svg alt=jquery width="60" height="60"/>
- <img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg alt=javascript width="60" height="60"/>
-	<img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg alt=mongodb width="60" height="60"/>
-	<img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg alt=mysql width="60" height="60"/>
-	<img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg alt=postgresql width="60" height="60"/>
-	<img style="margin: auto;" src=http://konpa.github.io/devicon/devicon.git/icons/rails/rails-original-wordmark.svg alt=npm width="60" height="60"/>
-  <img style="margin: auto;" src=http://konpa.github.io/devicon/devicon.git/icons/ruby/ruby-original-wordmark.svg alt=ruby width="60" height="60"/>
- <img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/npm/npm-original-wordmark.svg alt=npm width="60" height="60"/>
- <img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg alt=nodejs width="60" height="60"/>
- <img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg alt=express width="60" height="60"/>
-	<img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg alt=react width="60" height="60"/>
-	<img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/git/git-original.svg alt=git width="60" height="60"/>
- <img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/github/github-original.svg alt=github width="60" height="60"/>
- <img style="margin: auto;" src=http://konpa.github.io/devicon/devicon.git/icons/python/python-original.svg alt=github width="60" height="60"/>
+	<img style="margin: auto;" src=https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg alt=bootstrap width="60" height="60"/>
+	<img style="margin: auto;" src=https://www.vectorlogo.zone/logos/jquery/jquery-horizontal.svg alt=jquery width="60" height="60"/>
+ <img style="margin: auto;" src=https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg alt=javascript width="60" height="60"/>
+	<img style="margin: auto;" src=https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg alt=mongodb width="60" height="60"/>
+	<img style="margin: auto;" src=https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg alt=mysql width="60" height="60"/>
+	<img style="margin: auto;" src=https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg alt=postgresql width="60" height="60"/>
+	
+  <img style="margin: auto;" src=https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg alt=ruby width="60" height="60"/>
+ <img style="margin: auto;" src=https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg alt=npm width="60" height="60"/>
+ <img style="margin: auto;" src=https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg alt=nodejs width="60" height="60"/>
+ <img style="margin: auto;" src=https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg alt=express width="60" height="60"/>
+	<img style="margin: auto;" src=https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg alt=react width="60" height="60"/>
+	<img style="margin: auto;" src=https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg alt=git width="60" height="60"/>
+ <img style="margin: auto;" src=https://www.vectorlogo.zone/logos/github/github-icon.svg alt=github width="60" height="60"/>
+ <img style="margin: auto;" src=https://www.vectorlogo.zone/logos/python/python-icon.svg alt=github width="60" height="60"/>
 <img style="margin: auto;" src=https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg alt=github width="60" height="60"/>
 
 
@@ -51,12 +51,12 @@
 
 <h4>Desktop Environment: </h4>
 <p align="left">
- <img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/slack/slack-original.svg alt=slack width="60" height="60"/>
- <img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain.svg alt=vs width="60" height="60"/>
- <img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/atom/atom-original.svg alt=atom width="60" height="60"/>
-	<img style="margin: auto;" src=http://konpa.github.io/devicon/devicon.git/icons/apple/apple-original.svg alt=linux width="60" height="60"/>
- <img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/ubuntu/ubuntu-plain-wordmark.svg alt=ubuntu width="60" height="60"/>
- <img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/windows8/windows8-original.svg alt=windows8 width="60" height="60"/>
+ <img style="margin: auto;" src=https://www.vectorlogo.zone/logos/slack/slack-icon.svg alt=slack width="60" height="60"/>
+ <img style="margin: auto;" src=https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg alt=vs width="60" height="60"/>
+ <img style="margin: auto;" src=https://www.vectorlogo.zone/logos/atom_io/atom_io-icon.svg alt=atom width="60" height="60"/>
+	<img style="margin: auto;" src=https://www.vectorlogo.zone/logos/apple/apple-icon.svg alt=linux width="60" height="60"/>
+ <img style="margin: auto;" src=https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg alt=ubuntu width="60" height="60"/>
+ <img style="margin: auto;" src=https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg alt=windows8 width="60" height="60"/>
 </p>
 <p align="center">
 	<img style="margin: auto;" src=https://github-readme-stats.vercel.app/api?username=sahilgenius1&show_icons=true alt=sahilgenius1 />
