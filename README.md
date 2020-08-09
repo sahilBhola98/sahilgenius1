@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working with Telstra and on Fingerprint Biometric Deep Learning project*****
 - 🌱 I’m currently learning ... **MERN Stack**
-- 💬 Ask me about ... **Web Develpoment and Deep Learning**
+- 💬 Ask me about ... **Web Development and Deep Learning**
 - 😄 Employement ... **Open for software opportunities only if they push me out of my comfort zone**
 - ⚡ Fun fact ... **Your choices should show your hope not fears*❤
 - 📫 How to reach me **nsitsahilbhola@gmail.com**
